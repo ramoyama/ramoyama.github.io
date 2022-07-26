@@ -1,4 +1,4 @@
 const target = document.getElementById('hoge');
-function colorchange() {
+function colorchange(){
   target.style.color ="red";
 }
